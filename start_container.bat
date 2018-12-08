@@ -1,0 +1,1 @@
+docker run -it -v "%cd%\mounted_volume":/sandbox_root gcc-sandbox-container
